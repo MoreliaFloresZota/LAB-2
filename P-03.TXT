@@ -1,0 +1,20 @@
+CARACTERISTICAS 
+
+1.  TypeScript permite definir tipos de datos (como string, number, boolean, etc.) en las variables, lo que ayuda a detectar errores en tiempo de compilación en lugar de en tiempo de ejecución.
+
+2. Permite crear interfaces y tipos personalizados, facilitando la definición de estructuras de datos más complejas y mejorando la legibilidad del código.
+
+3.  TypeScript soporta la programación orientada a objetos con clases, herencia y módulos, lo que ayuda a organizar el código de manera más eficiente.
+
+
+
+ Diferencias entre TypeScript y JavaScript
+
+	 Característica                 	  	 TypeScript                        		     			  JavaScript                            
+
+	Errores en tiempo de compilación		 Detecta errores antes de ejecutar el código. 			Los errores se detectan en tiempo de ejecución. |
+	Soporte para Interfaces**      		 Permite definir interfaces y tipos.    			 No tiene soporte nativo para interfaces. |
+	Sintaxis de Clases**           		 Mejor soporte para la programación orientada a objetos. 	 Soporte limitado para clases (ES6+). |
+	Compilación**                 		 Se compila a JavaScript.      				         | Se ejecuta directamente.       
+
+

@@ -1,0 +1,22 @@
+1 Los template strings son una forma de declarar cadenas de texto en JavaScript y TypeScript. Se delimitan utilizando comillas invertidas (`` ` ``) en lugar de comillas simples (`'`) o dobles (`"`).
+
+2 Permiten insertar variables y expresiones dentro de las cadenas de texto de manera sencilla usando la sintaxis `${variable}`
+
+
+3. Los template strings pueden abarcar múltiples líneas sin necesidad de concatenar manualmente las cadenas. Esto facilita la creación de texto más legible
+
+
+4. Dentro de las plantillas, se pueden ejecutar funciones o expresiones matemáticas
+
+
+
+
+			Diferencias con Comillas Simples y Dobles
+
+
+Característica				Template Strings (`)						Comillas Simples/Dobles (' o ")
+Declaración				Usan comillas invertidas.					Usan comillas simples o dobles.
+Interpolación de Variables		Permiten ${variable} directamente.				Requieren concatenación ('texto ' + var).
+Cadenas Multilínea			Soportan múltiples líneas sin caracteres de escape.		Usan \n para nuevas líneas.
+
+
